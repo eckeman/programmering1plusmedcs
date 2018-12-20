@@ -1,0 +1,11 @@
+D:\OneDrive - Privat\OneDrive\Dokument\GitHub\programmering1plusmedcs\bin\Debug\netcoreapp2.1\programmering1plusmedcs.deps.json
+D:\OneDrive - Privat\OneDrive\Dokument\GitHub\programmering1plusmedcs\bin\Debug\netcoreapp2.1\programmering1plusmedcs.runtimeconfig.json
+D:\OneDrive - Privat\OneDrive\Dokument\GitHub\programmering1plusmedcs\bin\Debug\netcoreapp2.1\programmering1plusmedcs.runtimeconfig.dev.json
+D:\OneDrive - Privat\OneDrive\Dokument\GitHub\programmering1plusmedcs\bin\Debug\netcoreapp2.1\programmering1plusmedcs.dll
+D:\OneDrive - Privat\OneDrive\Dokument\GitHub\programmering1plusmedcs\bin\Debug\netcoreapp2.1\programmering1plusmedcs.pdb
+D:\OneDrive - Privat\OneDrive\Dokument\GitHub\programmering1plusmedcs\obj\Debug\netcoreapp2.1\programmering1plusmedcs.csprojAssemblyReference.cache
+D:\OneDrive - Privat\OneDrive\Dokument\GitHub\programmering1plusmedcs\obj\Debug\netcoreapp2.1\programmering1plusmedcs.csproj.CoreCompileInputs.cache
+D:\OneDrive - Privat\OneDrive\Dokument\GitHub\programmering1plusmedcs\obj\Debug\netcoreapp2.1\programmering1plusmedcs.AssemblyInfoInputs.cache
+D:\OneDrive - Privat\OneDrive\Dokument\GitHub\programmering1plusmedcs\obj\Debug\netcoreapp2.1\programmering1plusmedcs.AssemblyInfo.cs
+D:\OneDrive - Privat\OneDrive\Dokument\GitHub\programmering1plusmedcs\obj\Debug\netcoreapp2.1\programmering1plusmedcs.dll
+D:\OneDrive - Privat\OneDrive\Dokument\GitHub\programmering1plusmedcs\obj\Debug\netcoreapp2.1\programmering1plusmedcs.pdb
