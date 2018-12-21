@@ -8,7 +8,7 @@ class Output
 {
     static void Main()
     {
-        Console.Write("\n\tDetta är En rad text produc");
+        Console.Write("\n\tDetta är EN rad text produc");
         Console.WriteLine("erad av två utskriftsatser");
     }
 }

@@ -38,6 +38,6 @@ Thumbs.db
 
  # Folders           #
  #####################
- /bin/*
- /obj/*
- /.vscode/*
+ programmering1plusmedcs/bin/*
+ programmering1plusmedcs/obj/*
+ programmering1plusmedcs/.vscode/*
